@@ -5,11 +5,11 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 -------
 
-| Title      | Date            | Topic                                               | Content                                                      |
-| ---------- | --------------- | --------------------------------------------------- | ------------------------------------------------------------ |
-| Lecture 0  | 17.09.2019      | Intro lecture. Machine learning for Earth Sciences. | [slides](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect0/Lect0.pdf) |
-| Lecture 1  | 01.10.2019      | Types of machine learning problems                  | [slides](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect01/Lect01.pdf) |
-| Homework 1 | due: 15.10.2019 | Earth Sciences problems: formulate as ML problems   | [writeup](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW01/HW01.md) |
+| Title      | Date                            | Topic                                               | Content                                                      |
+| ---------- | ------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| Lecture 0  | 17.09.2019                      | Intro lecture. Machine learning for Earth Sciences. | [slides](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect0/Lect0.pdf) |
+| Lecture 1  | 01.10.2019                      | Types of machine learning problems                  | [slides](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect01/Lect01.pdf) |
+| Homework 1 | 01.10.2019<br />due: 15.10.2019 | Earth Sciences problems: formulate as ML problems   | [writeup](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW01/HW01.md) |
 
 
 
