@@ -33,3 +33,5 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 - *Bishop C.* "Pattern Recognition and Machine Learning" / C. Bishop, New York: Springer-Verlag, 2006.
 
   ​	Перевод на русский язык [готовится издательством ДИАЛЕКТИКА (ETA октябрь 2019 г. по состоянию на 10.09.2019)](http://shtonda.blogspot.com/2018/05/pattern-recognition-machine-learning.html)
+
+- [Matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) - справочник по соотношениям в матричной форме
