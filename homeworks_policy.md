@@ -12,7 +12,7 @@
 Дальнейшее оценивание прогресса студента по каждому ДЗ производится по формуле:
 
 <p align='center'>
-    <img src="https://latex.codecogs.com/svg.latex?S=\left(score_{base}+score_{opt}\right) \cdot w \cdot \exp \left(\frac{\min \left(deadline-date\_submitted, 0\right)}{14}\right)" />
+    <img src="./img/formula.svg" />
 </p>
 
 Пояснение - на рис. 1.
