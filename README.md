@@ -15,6 +15,10 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 
 
+[Метод оценки домашних заданий.](./homeworks_policy.md)
+
+
+
 ### Рекомендуемая литература
 
 (следите за обновлениями!)
