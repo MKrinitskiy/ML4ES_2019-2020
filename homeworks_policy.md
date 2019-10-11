@@ -11,7 +11,9 @@
 
 Дальнейшее оценивание прогресса студента по каждому ДЗ производится по формуле:
 
-<p align='center'>(основной_балл + доп_баллы)*вес * exp(min(deadline-дата_сдачи, 0)/14)</p>
+<p align='center'>
+    <img src="https://latex.codecogs.com/svg.latex?S=\left(score_{base}+score_{opt}\right) \cdot w \cdot \exp \left(\frac{\min \left(deadline-date\_submitted, 0\right)}{14}\right)" />
+</p>
 
 Пояснение - на рис. 1.
 
