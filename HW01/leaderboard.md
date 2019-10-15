@@ -15,9 +15,9 @@
 | А.С. Гордей  | in progress | in progress       | -<br>(submitted 02.10.2019)  | in progress    |
 | В.Ю. Резвов  | in progress | in progress       | -<br> (submitted 13.10.2019) | in progress    |
 | И.М. Кобелев | 100         | 40                | -<br>(submitted 14.10.2019)  | 40             |
-|              |             |                   |                              |                |
-|              |             |                   |                              |                |
-|              |             |                   |                              |                |
+| Д. Арутюнян  | in progress | in progress       | -<br>(submitted 15.10.2019)  | in progress    |
+| Д. Собаева   | in progress | in progress       | -<br>(submitted 14.10.2019)  | in progress    |
+| Н.С. Чечуева | in progress | in progress       | -<br>(submitted 14.10.2019)  | in progress    |
 |              |             |                   |                              |                |
 |              |             |                   |                              |                |
 |              |             |                   |                              |                |
