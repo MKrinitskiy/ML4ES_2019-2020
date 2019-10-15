@@ -3,6 +3,10 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 Машинное обучение для решения исследовательских и инженерных задач в науках о Земле. Читает [Михаил Криницкий](https://sail.ocean.ru/viewuser.php?user=krinitsky)
 
+[Метод оценки домашних заданий.](./homeworks_policy.md)
+
+[Правила распространения источников](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/resources_policy.md)
+
 -------
 
 | Title      | Date                                | Topic                                                        | Content                                                      |
@@ -12,12 +16,6 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Homework 1 | 01.10.2019<br />due: **15.10.2019** | Earth Sciences problems: formulate as ML problems            | [writeup](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW01/HW01.md)<br>[results](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW01/leaderboard.md) |
 | Lecture 2  | 08.10.2019                          | Types of machine learning problems, <br />Probabilistic foundations of linear regression | [slides](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect02/Lect02.pdf) |
 | Homework 2 | 08.10.2019<br />due: 22.10.2019     | Derive loss function for linear regression given Laplace noise | [writeup](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW02/HW02_writeup.pdf)<br>[results](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW02/leaderboard.md) |
-
-
-
-[Метод оценки домашних заданий.](./homeworks_policy.md)
-
-[Правила распространения источников](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/resources_policy.md)
 
 ### Рекомендуемая литература
 
