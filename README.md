@@ -17,7 +17,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Lecture 2  | 08.10.2019                          | Types of machine learning problems, <br />Probabilistic foundations of linear regression | [slides](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect02/Lect02.pdf) |
 | Homework 2 | 08.10.2019<br />due: 22.10.2019     | Derive loss function for linear regression given Laplace noise | [writeup](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW02/HW02_writeup.pdf)<br>[results](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW02/leaderboard.md) |
 | Lecture 3  | 15.10.2019                          | On the feature engineering                                   | [slides](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect03/Lect03.pdf) |
-| Lecture 4  | 22.10.2019                          | Technical tools of data analysis                             | [links](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect04/Lect04_start.md) |
+| Lecture 4  | 22.10.2019                          | Technical tools of data analysis                             | [links](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect04/Lect04_start.md)<br >[notebook 1](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect04/Lect04.ipynb)<br />[notebook 2](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect04/LRproblem) |
 
 ### Рекомендуемая литература
 
