@@ -12,11 +12,11 @@
 
 | Name         | Score                   | Weighted<br>score       | Late<br>days                 | Final<br>score          |
 | ------------ | ----------------------- | ----------------------- | ---------------------------- | ----------------------- |
-| А.С. Гордей  | scoring<br/>in progress | scoring<br/>in progress | -<br>(submitted 02.10.2019)  | scoring<br/>in progress |
-| В.Ю. Резвов  | 100                     | 40                      | -<br> (submitted 13.10.2019) | 40                      |
+| А.С. Гордей  | 69                      | 28                      | -<br>(submitted 02.10.2019)  | 28                      |
+| В.Ю. Резвов  | 100                     | 40                      | -<br>(submitted 13.10.2019)  | 40                      |
 | И.М. Кобелев | 100                     | 40                      | -<br>(submitted 14.10.2019)  | 40                      |
-| Д. Арутюнян  | scoring<br>in progress  | scoring<br/>in progress | -<br>(submitted 15.10.2019)  | scoring<br/>in progress |
-| Д. Собаева   | scoring<br/>in progress | scoring<br/>in progress | -<br>(submitted 14.10.2019)  | scoring<br/>in progress |
+| Д. Арутюнян  | 82                      | 33                      | -<br>(submitted 15.10.2019)  | 33                      |
+| Д. Собаева   | 70                      | 28                      | -<br>(submitted 14.10.2019)  | 28                      |
 | Н.С. Чечуева | 100                     | 40                      | -<br>(submitted 14.10.2019)  | 40                      |
 | П. Шпак      | 100                     | 40                      | -<br>(submitted 15.10.2019)  | 40                      |
 |              |                         |                         |                              |                         |
