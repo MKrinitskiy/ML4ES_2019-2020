@@ -21,7 +21,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 5 | 29.10.2019                          | Технические средства анализа данных (2)                      | [notebook 1](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect05/Lect05.ipynb) <br /> [notebook 2, data](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect05/LRproblem) |
 | Лекция 6 | 05.11.2019                          | Оценка качества моделей машинного обучения                   | [notebook and data](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect06) |
 | Онлайн-семинар<br />(4й курс) | 18.11.2019     | Оценка неопределенностей в машинном обучении                 | [notebook](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Seminar07) |
-| ДЗ 3<br />(4й курс)    | 18.11.2019<br />due: 03.12.2019     | Решение задачи линейной регрессии с оценкой качества и неопределенностей | [описание, данные, ноутбуки](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW03)<br>[результаты]() |
+| ДЗ 3<br />(4й курс)    | 18.11.2019<br />due: 03.12.2019     | Решение задачи линейной регрессии с оценкой качества и неопределенностей | [описание, данные, ноутбуки](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW03)<br>[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW03/leaderboard.md) |
 
 
 ### Рекомендуемая литература
