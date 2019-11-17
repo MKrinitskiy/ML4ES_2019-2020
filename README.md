@@ -9,17 +9,20 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 -------
 
-| Title      | Date                                | Topic                                                        | Content                                                      |
-| ---------- | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Лекция 0   | 17.09.2019                          | Вводная лекция. Машинное обучение в науках о Земле.          | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect0/Lect0.pdf) |
-| Лекция 1   | 01.10.2019                          | Типы задач машинного обучения                                | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect01/Lect01.pdf) |
-| ДЗ 1       | 01.10.2019<br />due: **15.10.2019** | Задачи в науках о Земле как задачи машинного обучения        | [описание](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW01/HW01.md)<br>[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW01/leaderboard.md) |
-| Лекция 2   | 08.10.2019                          | Типы задач машинного обучения, <br />Вероятностные основы линейной регрессии | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect02/Lect02.pdf) |
-| ДЗ 2       | 08.10.2019<br />due: 22.10.2019     | Вывод функции ошибки для линейной регрессии <br /> с шумом, распределенным по Лапласу | [описание](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW02/HW02_writeup.pdf)<br>[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW02/leaderboard.md) |
-| Лекция 3   | 15.10.2019                          | О расширении пространства признаков                          | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect03/Lect03.pdf) |
-| Лекция 4   | 22.10.2019                          | Технические средства анализа данных                          | [ссылки](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect04/Lect04_start.md)<br >[notebook 1](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect04/Lect04.ipynb)<br />[notebook 2](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect04/LRproblem) |
-| Лекция 5   | 29.10.2019                          | Технические средства анализа данных (2)                      | [notebook 1](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect05/Lect05.ipynb) <br /> [notebook 2, data](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect05/LRproblem)|
-| Лекция 6   | 05.11.2019                          | Оценка качества моделей машинного обучения                   | [notebook and data](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect06) |
+| Title    | Date                                | Topic                                                        | Content                                                      |
+| -------- | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Лекция 0 | 17.09.2019                          | Вводная лекция. Машинное обучение в науках о Земле.          | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect0/Lect0.pdf) |
+| Лекция 1 | 01.10.2019                          | Типы задач машинного обучения                                | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect01/Lect01.pdf) |
+| ДЗ 1     | 01.10.2019<br />due: **15.10.2019** | Задачи в науках о Земле как задачи машинного обучения        | [описание](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW01/HW01.md)<br>[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW01/leaderboard.md) |
+| Лекция 2 | 08.10.2019                          | Типы задач машинного обучения, <br />Вероятностные основы линейной регрессии | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect02/Lect02.pdf) |
+| ДЗ 2     | 08.10.2019<br />due: 22.10.2019     | Вывод функции ошибки для линейной регрессии <br /> с шумом, распределенным по Лапласу | [описание](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW02/HW02_writeup.pdf)<br>[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW02/leaderboard.md) |
+| Лекция 3 | 15.10.2019                          | О расширении пространства признаков                          | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect03/Lect03.pdf) |
+| Лекция 4 | 22.10.2019                          | Технические средства анализа данных                          | [ссылки](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect04/Lect04_start.md)<br >[notebook 1](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect04/Lect04.ipynb)<br />[notebook 2](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect04/LRproblem) |
+| Лекция 5 | 29.10.2019                          | Технические средства анализа данных (2)                      | [notebook 1](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect05/Lect05.ipynb) <br /> [notebook 2, data](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect05/LRproblem) |
+| Лекция 6 | 05.11.2019                          | Оценка качества моделей машинного обучения                   | [notebook and data](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect06) |
+| Онлайн-семинар<br />(4й курс) | 18.11.2019     | Оценка неопределенностей в машинном обучении                 | [notebook](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Seminar07) |
+| ДЗ 3<br />(4й курс)    | 18.11.2019<br />due: 03.12.2019     | Решение задачи линейной регрессии с оценкой качества и неопределенностей | [описание, данные, ноутбуки](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW03)<br>[результаты]() |
+
 
 ### Рекомендуемая литература
 
