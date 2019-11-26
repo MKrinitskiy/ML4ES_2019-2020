@@ -4,6 +4,8 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 Машинное обучение для решения исследовательских и инженерных задач в науках о Земле. Читает [Михаил Криницкий](https://sail.ocean.ru/viewuser.php?user=krinitsky)
 
 [Метод оценки домашних заданий.](./homeworks_policy.md)
+**UPDATE 2019-11-27**
+Поскольку лекция 03.12.2019 будет заключительной, состав домашних заданий зафиксирован на трех. В [плане](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/homeworks_policy.md) по домашним заданиям и их оценке есть изменения, касающиеся автозачетов и допуска к зачетам по 2му семестру.
 
 [Правила распространения источников](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/resources_policy.md)
 
