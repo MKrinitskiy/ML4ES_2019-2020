@@ -22,6 +22,9 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 6 | 05.11.2019                          | Оценка качества моделей машинного обучения                   | [notebook and data](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect06) |
 | Онлайн-семинар<br />(4й курс) | 18.11.2019     | Оценка неопределенностей в машинном обучении                 | [notebook](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Seminar07) |
 | ДЗ 3<br />(4й курс)    | 18.11.2019<br />due: 03.12.2019     | Решение задачи линейной регрессии с оценкой качества и неопределенностей | [описание, данные, ноутбуки](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW03)<br>[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW03/leaderboard.md) |
+| Онлайн-семинар<br />(5й курс) | 25.11.2019     | Оценка неопределенностей в машинном обучении                 | [notebook](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Seminar07) |
+| ДЗ 3<br />(5й курс)    | 25.11.2019<br />due: 10.12.2019     | Решение задачи линейной регрессии с оценкой качества и неопределенностей | [описание, данные, ноутбуки](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW03)<br>[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW03/leaderboard.md) |
+| Лекция 8 | 26.11.2019                          | Градиентная оптимизация моделей машинного обучения           | [notebook, скрипты, картинки](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect08) |
 
 
 ### Рекомендуемая литература
