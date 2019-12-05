@@ -14,7 +14,7 @@
 | И.М. Кобелев | 100   | 20                | -<br/>(submitted 22.10.2019)                            | 20             |
 | Д. Арутюнян  | 100   | 20                | 24<br/>(submitted 15.11.2019)                           | 3.6            |
 | А. Подобед   | 100   | 20                | 19<br />(submitted 17.11.2019,<br />started 29.10.2019) | 5.14           |
-| Хеин Зар Чжо | scoring<br />in progress  | scoring<br />in progress | 38<br/>(submitted 29.11.2019) | scoring<br />in progress |
+| Хеин Зар Чжо | 100   | 20                | 38<br/>(submitted 29.11.2019)                           | 1.33           |
 
 
 
