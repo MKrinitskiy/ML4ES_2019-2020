@@ -20,7 +20,7 @@
 | Н.С. Чечуева | 100   | 40                | -<br>(submitted 14.10.2019)                            | 40             |
 | П. Шпак      | 100   | 40                | -<br>(submitted 15.10.2019)                            | 40             |
 | А. Подобед   | 85    | 34                | 14<br/>(submitted 11.11.2019,<br />started 29.11.2019) | 8.75           |
-|              |       |                   |                                                        |                |
+| Хеин Зар Чжо | scoring<br/>in progress | scoring<br/>in progress | 45<br/>(submitted 29.11.2019)  | scoring<br/>in progress |
 
 
 
