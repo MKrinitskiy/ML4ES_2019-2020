@@ -12,10 +12,10 @@
 | Н.С. Чечуева | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
 | Д. Собаева   | 46                       | 92                       | -<br />submitted 03.12.2019 | 92                       |
 | И.М. Кобелев | 93                       | 186                      | -<br />submitted 03.12.2019 | 186 |
-| Д. Арутюнян  | scoring<br />in progress | scoring<br />in progress | -<br />submitted 02.12.2019 | scoring<br />in progress |
+| Д. Арутюнян  | 21                       | 42 | -<br />submitted 02.12.2019 | 42 |
 | А. Подобед   | 54                       | 108                      | -<br />submitted 03.12.2019 | 108 |
 | А.О. Филиппов | scoring<br />in progress | scoring<br />in progress | -<br />submitted 03.12.2019 | scoring<br />in progress |
-| А. Танурков | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 04.12.2019 | scoring<br />in progress |
+| А. Танурков | 6                        | 12 | 1<br />submitted 04.12.2019 | 11.2 |
 | А. Караваев | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
 | Л.И. Салаватова | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
 
