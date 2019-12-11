@@ -7,7 +7,7 @@
 | Name         | Score | Weighted<br>score | Late<br>days | Final<br>score |
 | ------------ | ----- | ----------------- | ------------ | -------------- |
 | П. Шпак      | 51                       | 102                      | 1<br />submitted 04.12.2019 | 95                       |
-| В.Ю. Резвов  | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
+| В.Ю. Резвов  | 110                      | 220                      | 1<br />submitted 11.12.2019 | 205 |
 | А.С. Гордей  | -     | -                 | -            | -              |
 | Н.С. Чечуева | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
 | Д. Собаева   | 46                       | 92                       | -<br />submitted 03.12.2019 | 92                       |
