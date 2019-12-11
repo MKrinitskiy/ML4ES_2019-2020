@@ -11,7 +11,7 @@
 | А.С. Гордей  | -     | -                 | -            | -              |
 | Н.С. Чечуева | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
 | Д. Собаева   | 46                       | 92                       | -<br />submitted 03.12.2019 | 92                       |
-| И.М. Кобелев | scoring<br />in progress | scoring<br />in progress | -<br />submitted 03.12.2019 | scoring<br />in progress |
+| И.М. Кобелев | 93                       | 186                      | -<br />submitted 03.12.2019 | 186 |
 | Д. Арутюнян  | scoring<br />in progress | scoring<br />in progress | -<br />submitted 02.12.2019 | scoring<br />in progress |
 | А. Подобед   | 54                       | 108                      | -<br />submitted 03.12.2019 | 108 |
 | А.О. Филиппов | scoring<br />in progress | scoring<br />in progress | -<br />submitted 03.12.2019 | scoring<br />in progress |
