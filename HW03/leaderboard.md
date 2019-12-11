@@ -10,7 +10,7 @@
 | В.Ю. Резвов  | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
 | А.С. Гордей  | -     | -                 | -            | -              |
 | Н.С. Чечуева | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
-| Д. Собаева   | scoring<br />in progress | scoring<br />in progress | -<br />submitted 03.12.2019 | scoring<br />in progress |
+| Д. Собаева   | 46                       | 92                       | -<br />submitted 03.12.2019 | 92                       |
 | И.М. Кобелев | scoring<br />in progress | scoring<br />in progress | -<br />submitted 03.12.2019 | scoring<br />in progress |
 | Д. Арутюнян  | scoring<br />in progress | scoring<br />in progress | -<br />submitted 02.12.2019 | scoring<br />in progress |
 | А. Подобед   | 54                       | 108                      | -<br />submitted 03.12.2019 | 108 |
