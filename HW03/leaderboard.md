@@ -8,7 +8,7 @@
 | --------------- | ------------------------ | ------------------------ | --------------------------- | ------------------------ |
 | П. Шпак         | 51                       | 102                      | 1<br />submitted 04.12.2019 | 95                       |
 | В.Ю. Резвов     | 110                      | 220                      | 1<br />submitted 11.12.2019 | 205                      |
-| А.С. Гордей     | scoring<br />in progress | scoring<br />in progress | 2<br />submitted 12.12.2019 | scoring<br />in progress |
+| А.С. Гордей     | 88                       | 176                      | 2<br />submitted 12.12.2019 | 152.6                    |
 | Н.С. Чечуева    | 110                      | 220                      | 1<br />submitted 11.12.2019 | 205                      |
 | Д. Собаева      | 46                       | 92                       | -<br />submitted 03.12.2019 | 92                       |
 | И.М. Кобелев    | 93                       | 186                      | -<br />submitted 03.12.2019 | 186                      |
@@ -18,6 +18,7 @@
 | А. Танурков     | 6                        | 12                       | 1<br />submitted 04.12.2019 | 11.2                     |
 | А. Караваев     | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
 | Л.И. Салаватова | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
+| Хеин Зар Чжо    | -                        | -                        | -                           | -                        |
 
 
 
