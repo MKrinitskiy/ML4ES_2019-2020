@@ -16,8 +16,8 @@
 | А. Подобед      | 54                       | 108                      | -<br />submitted 03.12.2019 | 108                      |
 | А.О. Филиппов   | 47                       | 94                       | -<br />submitted 03.12.2019 | 94                       |
 | А. Танурков     | 6                        | 12                       | 1<br />submitted 04.12.2019 | 11.2                     |
-| А. Караваев     | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
-| Л.И. Салаватова | scoring<br />in progress | scoring<br />in progress | 1<br />submitted 11.12.2019 | scoring<br />in progress |
+| А. Караваев     | 51                       | 102                      | 1<br />submitted 11.12.2019 | 95                       |
+| Л.И. Салаватова | 45                       | 90                       | 1<br />submitted 11.12.2019 | 83.8                     |
 | Хеин Зар Чжо    | -                        | -                        | -                           | -                        |
 
 
