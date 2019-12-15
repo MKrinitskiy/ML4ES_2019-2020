@@ -18,7 +18,7 @@
 | А. Танурков     | 6                        | 12                       | 1<br />submitted 04.12.2019 | 11.2                     |
 | А. Караваев     | 51                       | 102                      | 0<br />submitted 10.12.2019 | 102                      |
 | Л.И. Салаватова | 45                       | 90                       | 0<br />submitted 10.12.2019 | 90                       |
-| Хеин Зар Чжо    | -                        | -                        | -                           | -                        |
+| Хеин Зар Чжо    | suspicion of plagiarism  | suspicion of plagiarism  | 3<br />submitted 13.12.2019 | suspicion of plagiarism  |
 
 
 
