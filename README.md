@@ -11,6 +11,12 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 [Здесь](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/leaderboard_1semester.md) начинаю заполнять успехи в отношении домашних заданий за первый семестр. Там же ставлю отметки об автозачете и допуске к зачету.
 
+
+**UPDATE 2019-12-16**
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/term1_exam.md) можно ознакомиться со списком вопросов к зачету за первый семестр.
+
+
 [Правила распространения источников](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/resources_policy.md)
 
 -------
