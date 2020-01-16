@@ -1,5 +1,5 @@
 # ML4ES_2019-2020
-Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://sail.ocean.ru/viewuser.php?user=krinitsky). 
+Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://sail.ocean.ru/viewuser.php?user=krinitsky) ([RG link](https://www.researchgate.net/profile/Mikhail_Krinitskiy))
 
 Машинное обучение для решения исследовательских и инженерных задач в науках о Земле. Читает [Михаил Криницкий](https://sail.ocean.ru/viewuser.php?user=krinitsky)
 
