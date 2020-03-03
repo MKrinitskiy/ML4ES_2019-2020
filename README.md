@@ -40,7 +40,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 8 | 26.11.2019                          | Градиентная оптимизация моделей машинного обучения           | [notebook, скрипты, картинки](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect08) |
 | Лекция 9 | 03.12.2019                          | Градиентная оптимизация моделей машинного обучения - 2       | [notebook, скрипты, картинки](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect09) |
 |  |  | II семестр |  |
-| Лекция 10 | 18.02.2020                         | Задачи классификации. <br />Метод K ближайших соседей, байесовский классификатор, наивный байесовский классификатор | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect10/Lect10.pdf) |
+| Лекция 10 | 18.02.2020                         | Задачи классификации. <br />Метод K ближайших соседей, байесовский классификатор | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect10/Lect10.pdf) |
 | Лекция 11 | 03.03.2020                         | Задачи классификации (продолжение). <br />Наивный байесовский классификатор, линейный и квадратичный дискриминантный анализ, логистическая регрессия | [слайды, notebooks](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect11) |
 
 
