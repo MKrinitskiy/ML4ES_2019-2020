@@ -58,11 +58,11 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 - [*Hastie T., Tibshirani R., Friedman J.* "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition"](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) / T. Hastie, R. Tibshirani, J. Friedman, 2-е изд., New York: Springer-Verlag, 2009.
 
-  ​	Первод на русский язык готовится издательством ДИАЛЕКТИКА ([ETA декабрь 2019 г. по состоянию на 16.11.2019](https://shtonda.blogspot.com/2017/11/elements-statistical-learning-hastie.html))
+  ​	Первод на русский язык готовится издательством ДИАЛЕКТИКА ([ETA май 2020 г. по состоянию на 03.03.2020](https://shtonda.blogspot.com/2017/11/elements-statistical-learning-hastie.html))
 
 - *Bishop C.* "Pattern Recognition and Machine Learning" / C. Bishop, New York: Springer-Verlag, 2006.
 
-  ​	Перевод на русский язык [готовится издательством ДИАЛЕКТИКА (ETA декабрь 2019 г. по состоянию на 16.11.2019)](http://shtonda.blogspot.com/2018/05/pattern-recognition-machine-learning.html)
+  ​	Перевод на русский язык [готовится издательством ДИАЛЕКТИКА (ETA май 2020 г. по состоянию на 03.03.2020)](http://shtonda.blogspot.com/2018/05/pattern-recognition-machine-learning.html)
 
 - [Matrix cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) - справочник по соотношениям в матричной форме
 
