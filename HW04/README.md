@@ -1,10 +1,10 @@
-Домашнее задание №4 по теме "Мультиномиальная логистическая регрессия".
+Домашнее задание №4 по теме "Мультиномиальная логистическая регрессия и оценка качества моделей классификации".
 
 Вес = 2.0, максимальный балл = 100. Срок сдачи - 07.04.2020
 
 
 
-Основой для выполнения ДЗ №4 может стать ноутбук с кодом, который можно скачать [здесь](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect13/MNIST_classification_MLR.ipynb)
+Основой для выполнения ДЗ №4 может стать ноутбук с кодом, который можно скачать [здесь](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW04/MNIST_classification_MLR.ipynb)
 
 Набор данных рукописных цифр для выполнения ДЗ №4 можно скачать [здесь (сами данные)](https://ml4es.ru/ml4es_course_content/Lect12/MNIST_data/mnist_data.npy) и [здесь (метки цифр)](https://ml4es.ru/ml4es_course_content/Lect12/MNIST_data/mnist_labels.npy)
 
