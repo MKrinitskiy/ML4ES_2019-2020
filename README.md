@@ -43,8 +43,9 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 10 | 18.02.2020                         | Задачи классификации. <br />Метод K ближайших соседей, байесовский классификатор | [слайды](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/Lect10/Lect10.pdf) |
 | Лекция 11 | 03.03.2020                         | Задачи классификации (продолжение). <br />Наивный байесовский классификатор, линейный и квадратичный дискриминантный анализ, логистическая регрессия | [слайды, notebooks](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect11) |
 | Лекция 12 | 10.03.2020 | Задачи классификации: мультиномиальная логистическая регрессия, автоградиент | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect12) |
-| Лекция 13 | 17.03.2020<br />18.03.2020 | Оценка качества моделей в задачах классификации | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect13)<br />[видеозапись 17.03](https://www.dropbox.com/s/cjiqczalmog88tk/ML4ES-2020-03-17-lect13.mp4?dl=0)<br />[видеозапись 18.03](https://www.dropbox.com/s/222jt5wkariddan/ML4ES-2020-03-18-lect13.mp4?dl=0) |
+| Лекция 13 | 17.03.2020<br />18.03.2020 | Оценка качества моделей в задачах классификации | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect13);<br />[видеозапись 17.03](https://www.dropbox.com/s/cjiqczalmog88tk/ML4ES-2020-03-17-lect13.mp4?dl=0)<br />[видеозапись 18.03](https://www.dropbox.com/s/222jt5wkariddan/ML4ES-2020-03-18-lect13.mp4?dl=0) |
 | ДЗ 4 | 24.03.2020<br />due: 07.04.2020 | Мультиномиальная логистическая регрессия и оценка качества моделей классификации | [описание, данные, стартовый ноутбук](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW04) |
+| Лекция 14 | 25.03.2020 | Обобщенные линейные модели; обобщенные аддитивные модели; искусственные нейронные сети | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect14);<br />[Видеозапись](https://www.dropbox.com/s/eja3lnkwz6jat4n/Ml4ES-2020-03-25-Lect14.mp4?dl=0) |
 
 
 ### Рекомендуемая литература
