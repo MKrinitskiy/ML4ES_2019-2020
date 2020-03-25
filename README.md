@@ -75,4 +75,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
   - [Оценивание и выбор моделей](http://www.machinelearning.ru/wiki/images/2/2d/Voron-ML-Modeling.pdf)
   - [Логические алгоритмы классификации](http://www.machinelearning.ru/wiki/images/3/3e/Voron-ML-Logic.pdf)
   - [Алгоритмические композиции](http://www.machinelearning.ru/wiki/images/0/0d/Voron-ML-Compositions.pdf)
+  
 - Курс лекций [Л.М. Местецкого](http://www.machinelearning.ru/wiki/index.php?title=%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Mest) ["Математические методы распознавания образов"](http://www.ccas.ru/frc/papers/mestetskii04course.pdf)
+
+- Препринт книги Cosma Rohilla Shalizi "Advanced Data Analysis from an Elementary Point of View". [Доступен онлайн](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/).
