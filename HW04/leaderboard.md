@@ -11,7 +11,7 @@
 | А.С. Гордей     |                          |                          |  |  |
 | Н.С. Чечуева    |                          |                          |  |  |
 | Д. Собаева      |                          |                          |  |  |
-| И.М. Кобелев    | scoring in progress      | scoring in progress      | 0<br />submitted 31.03.2020 |                          |
+| И.М. Кобелев    | scoring in progress      | scoring in progress      | 0<br />submitted 31.03.2020 | scoring in progress      |
 | Д. Арутюнян     |                          |                          |  |  |
 | А. Подобед      |                          |                          |  |  |
 | А.О. Филиппов   |                          |                          |  |  |
