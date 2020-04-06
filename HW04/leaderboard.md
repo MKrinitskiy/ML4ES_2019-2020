@@ -7,16 +7,16 @@
 | Name            | Score                    | Weighted<br>score        | Late<br>days                | Final<br>score           |
 | --------------- | ------------------------ | ------------------------ | --------------------------- | ------------------------ |
 | П. Шпак         |                          |                          |  |  |
-| В.Ю. Резвов     |                          |                          |  |  |
+| В.Ю. Резвов     | scoring in progress | scoring in progress | 0<br />submitted 06.04.2020 | scoring in progress |
 | А.С. Гордей     |                          |                          |  |  |
-| Н.С. Чечуева    |                          |                          |  |  |
-| Д. Собаева      |                          |                          |  |  |
-| И.М. Кобелев    | scoring in progress      | scoring in progress      | 0<br />submitted 31.03.2020 | scoring in progress      |
+| Н.С. Чечуева    | scoring in progress | scoring in progress | 0<br />submitted 06.04.2020 | scoring in progress |
+| Д. Собаева      | scoring in progress | scoring in progress | 0<br />submitted 06.04.2020 | scoring in progress |
+| И.М. Кобелев    | scoring in progress      | scoring in progress | 0<br />submitted 31.03.2020 | scoring in progress      |
 | Д. Арутюнян     |                          |                          |  |  |
 | А. Подобед      |                          |                          |  |  |
 | А.О. Филиппов   |                          |                          |  |  |
-| А. Танурков     |                          |                          |  |  | 
-| А. Караваев     |                          |                          |  |  | 
+| А. Танурков     |                          |                          |  |  |
+| А. Караваев     |                          |                          |  |  |
 | Л.И. Салаватова |                          |                          |  |  |
 | Хеин Зар Чжо    |                          |                          |  |  |
 
