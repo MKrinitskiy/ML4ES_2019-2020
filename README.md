@@ -47,6 +47,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | ДЗ 4 | 24.03.2020<br />due: 07.04.2020 | Мультиномиальная логистическая регрессия и оценка качества моделей классификации | [описание, данные, стартовый ноутбук](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW04)<br />[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW04/leaderboard.md) |
 | Лекция 14 | 25.03.2020 | Обобщенные линейные модели; обобщенные аддитивные модели; искусственные нейронные сети | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect14);<br />[Видеозапись](https://www.dropbox.com/s/eja3lnkwz6jat4n/Ml4ES-2020-03-25-Lect14.mp4?dl=0) |
 | Лекция 15 | 31.03.2020 | Практическое занятие. Искусственная нейронная сеть в задаче мультиномиальной классификации. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect15)<br />[Видеозапись p.1](https://www.dropbox.com/s/q7mhpft6u0d10iv/ML4ES-2020-03-31-part1.mp4?dl=0)<br />[Видеозапись p.2](https://www.dropbox.com/s/8gnpuiz690t85fo/ML4ES-2020-03-31-part2.mp4?dl=0) |
+| Лекция 16 | 07.04.2020 | Оптимизация функции потерь глубоких искусственных нейронных сетей | [Видеозапись](https://www.dropbox.com/s/4ogesae81f5p586/ML2ES-2020-04-07.mp4?dl=0) |
 
 
 ### Рекомендуемая литература
