@@ -48,6 +48,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 14 | 25.03.2020 | Обобщенные линейные модели; обобщенные аддитивные модели; искусственные нейронные сети | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect14);<br />[Видеозапись](https://www.dropbox.com/s/eja3lnkwz6jat4n/Ml4ES-2020-03-25-Lect14.mp4?dl=0) |
 | Лекция 15 | 31.03.2020 | Практическое занятие. Искусственная нейронная сеть в задаче мультиномиальной классификации. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect15)<br />[Видеозапись p.1](https://www.dropbox.com/s/q7mhpft6u0d10iv/ML4ES-2020-03-31-part1.mp4?dl=0)<br />[Видеозапись p.2](https://www.dropbox.com/s/8gnpuiz690t85fo/ML4ES-2020-03-31-part2.mp4?dl=0) |
 | Лекция 16 | 07.04.2020 | Оптимизация функции потерь глубоких искусственных нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect16)<br />[Видеозапись](https://www.dropbox.com/s/4ogesae81f5p586/ML2ES-2020-04-07.mp4?dl=0) |
+| Лекция 17 | 10.04.2020 | Метод опорных векторов | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect17) |
 
 
 ### Рекомендуемая литература
@@ -81,3 +82,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 - Курс лекций [Л.М. Местецкого](http://www.machinelearning.ru/wiki/index.php?title=%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Mest) ["Математические методы распознавания образов"](http://www.ccas.ru/frc/papers/mestetskii04course.pdf)
 
 - Препринт книги Cosma Rohilla Shalizi "Advanced Data Analysis from an Elementary Point of View". [Доступен онлайн](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/).
+
+- *James G., Witten D., Hastie T., Tibshirani R.,* 2013. "An Introduction to Statistical Learning: with Applications in R", Springer Texts in Statistics. Springer-Verlag, New York. Книга [доступна для скачивания](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf).
+
+- Интерактивная онлайн-книга *Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola* ["Dive into Deep Learning"](http://d2l.ai/) 
