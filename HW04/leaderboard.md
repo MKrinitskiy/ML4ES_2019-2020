@@ -12,13 +12,13 @@
 | Н.С. Чечуева    | scoring in progress      | scoring in progress      | 0<br />submitted 06.04.2020 | scoring in progress      |
 | Д. Собаева      | scoring in progress      | scoring in progress      | 0<br />submitted 06.04.2020 | scoring in progress      |
 | И.М. Кобелев    | scoring in progress      | scoring in progress      | 0<br />submitted 31.03.2020 | scoring in progress      |
-| Д. Арутюнян     |                          |                          |                             |                          |
+| Д. Арутюнян     | scoring in progress      | scoring in progress      | 2<br />submitted 09.04.2020 | scoring in progress      |
 | А. Подобед      | scoring in progress      | scoring in progress      | 0<br />submitted 07.04.2020 | scoring in progress      |
 | А.О. Филиппов   | scoring in progress      | scoring in progress      | 0<br />submitted 07.04.2020 | scoring in progress      |
 | А. Танурков     |                          |                          |                             |                          |
 | А. Караваев     |                          |                          |                             |                          |
 | Л.И. Салаватова |                          |                          |                             |                          |
-| Хеин Зар Чжо    |                          |                          |                             |                          |
+| Хеин Зар Чжо    | scoring in progress      | scoring in progress      | 3<br />submitted 10.04.2020 | scoring in progress      |
 
 
 
