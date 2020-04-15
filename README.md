@@ -50,6 +50,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 16 | 07.04.2020 | Оптимизация функции потерь глубоких искусственных нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect16)<br />[Видеозапись](https://www.dropbox.com/s/4ogesae81f5p586/ML2ES-2020-04-07.mp4?dl=0) |
 | Лекция 17 | 10.04.2020 | Метод опорных векторов | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect17)<br /> [Видеозапись](https://www.dropbox.com/s/0r1kr55aofiaxtg/ML4ES-2020-04-10-Lect17.mp4?dl=0)|
 | ДЗ 5 | 14.04.2020<br />due: 17.04.2020 | Выпуклость функции потерь логистической регрессии | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW05) |
+| Лекция 18 | 14.04.2020 | Метод обратного распространения ошибки | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect18)<br /> [Видеозапись](https://www.dropbox.com/s/7evcvjws8ima4ib/ML4ES-2020-04-14.mp4?dl=0)|
 
 
 ### Рекомендуемая литература
