@@ -12,8 +12,8 @@
 | Н.С. Чечуева    | 100      | 20      | 0<br />submitted 15.04.2020 | 20      |
 | Д. Собаева      | 100      | 20      | 0<br />submitted 17.04.2020 | 20      |
 | И.М. Кобелев    | 100      | 20      | 0<br />submitted 16.03.2020 | 20      |
-| Д. Арутюнян     | scoring in progress      | scoring in progress      | 0<br />submitted 17.04.2020 | scoring in progress      |
-| А. Подобед      | scoring in progress      | scoring in progress      | 0<br />submitted 17.04.2020 | scoring in progress      |
+| Д. Арутюнян     | 97       | 20      | 0<br />submitted 17.04.2020 | 20      |
+| А. Подобед      | 100      | 20      | 0<br />submitted 17.04.2020 | 20      |
 | А.О. Филиппов   |                          |                          |                             |                          |
 | А. Танурков     |                          |                          |                             |                          |
 | А. Караваев     |                          |                          |                             |                          |
