@@ -8,7 +8,7 @@
 | --------------- | ------------------------ | ------------------------ | --------------------------- | ------------------------ |
 | П. Шпак         | scoring in progress      | scoring in progress      | 0<br />submitted 07.04.2020 | scoring in progress      |
 | В.Ю. Резвов     | scoring in progress      | scoring in progress      | 0<br />submitted 06.04.2020 | scoring in progress      |
-| А.С. Гордей     |                          |                          |                             |                          |
+| А.С. Гордей     | scoring in progress      | scoring in progress      | 9<br />submitted 16.04.2020 | scoring in progress      |
 | Н.С. Чечуева    | scoring in progress      | scoring in progress      | 0<br />submitted 06.04.2020 | scoring in progress      |
 | Д. Собаева      | scoring in progress      | scoring in progress      | 0<br />submitted 06.04.2020 | scoring in progress      |
 | И.М. Кобелев    | scoring in progress      | scoring in progress      | 0<br />submitted 31.03.2020 | scoring in progress      |
