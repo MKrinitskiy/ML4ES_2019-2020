@@ -18,7 +18,7 @@
 | А. Танурков     |                          |                          |                             |                          |
 | А. Караваев     |                          |                          |                             |                          |
 | Л.И. Салаватова |                          |                          |                             |                          |
-| Хеин Зар Чжо    | scoring in progress      | scoring in progress      | 0<br />submitted 16.04.2020 | scoring in progress      |
+| Хеин Зар Чжо    | 100      | 20      | 0<br />submitted 16.04.2020 | 20      |
 
 
 
