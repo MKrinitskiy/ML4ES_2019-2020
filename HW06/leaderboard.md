@@ -6,19 +6,19 @@
 
 | Name            | Score                    | Weighted<br>score        | Late<br>days                | Final<br>score           |
 | --------------- | ------------------------ | ------------------------ | --------------------------- | ------------------------ |
-| П. Шпак         | in progress | in progress | 0<br />submitted 24.04.2020 | in progress |
-| В.Ю. Резвов     | in progress | in progress | 0<br />submitted 24.04.2020 | in progress |
+| П. Шпак         | 79          | 79 | 0<br />submitted 24.04.2020 | 79 |
+| В.Ю. Резвов     | 100         | 100 | 0<br />submitted 24.04.2020 | 100 |
 | А.С. Гордей     | in progress | in progress | 1<br />submitted 25.04.2020 | in progress |
-| Н.С. Чечуева    | in progress | in progress | 0<br />submitted 22.04.2020 | in progress |
-| Д. Собаева      | in progress | in progress | 0<br />submitted 24.04.2020 | in progress |
-| И.М. Кобелев    | in progress | in progress | 0<br />submitted 24.04.2020 | in progress |
-| Д. Арутюнян     | in progress | in progress | 1<br />submitted 25.04.2020 | in progress |
+| Н.С. Чечуева    | 100         | 100 | 0<br />submitted 22.04.2020 | 100 |
+| Д. Собаева      | 58          | 58 | 0<br />submitted 24.04.2020 | 58 |
+| И.М. Кобелев    | 65          | 65 | 0<br />submitted 24.04.2020 | 65 |
+| Д. Арутюнян     | 23          | 23 | 1<br />submitted 25.04.2020 | 21             |
 | А. Подобед      |       |       |  |       |
 | А.О. Филиппов   | 35 | 35 | 0<br />24.04.2020 | 35 |
 | А. Танурков     |                          |                          |                             |                          |
 | А. Караваев     |                          |                          |                             |                          |
 | Л.И. Салаватова |                          |                          |                             |                          |
-| Хеин Зар Чжо    | in progress | in progress | 2<br />submitted 26.04.2020 | in progress |
+| Хеин Зар Чжо    | 91          | 91 | 2<br />submitted 26.04.2020 | 79 |
 
 
 
