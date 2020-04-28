@@ -14,7 +14,7 @@
 | И.М. Кобелев    | in progress | in progress | 0<br />submitted 24.04.2020 | in progress |
 | Д. Арутюнян     | in progress | in progress | 1<br />submitted 25.04.2020 | in progress |
 | А. Подобед      |       |       |  |       |
-| А.О. Филиппов   | in progress | in progress | 0<br />24.04.2020 | in progress |
+| А.О. Филиппов   | 35 | 35 | 0<br />24.04.2020 | 35 |
 | А. Танурков     |                          |                          |                             |                          |
 | А. Караваев     |                          |                          |                             |                          |
 | Л.И. Салаватова |                          |                          |                             |                          |
