@@ -26,7 +26,6 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 
 
-
 -------
 
 | Title    | Date                                | Topic                                                        | Content                                                      |
@@ -62,7 +61,8 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | ДЗ 6 | 15.04.2020<br />due: 24.04.2020 | Графы вычислений и применение метода обратного распространения ошибки на примере модели логистической регрессии | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW06)<br />[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW06/leaderboard.md) |
 | Лекция 19 | 15.04.2020 | Методы инициализации нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect19)<br /> [Видеозапись 1 (обсуждение ДЗ)](https://www.dropbox.com/s/a0k9i0hdviaktqn/ML4ES-2020-04-15-001.mp4?dl=0)<br />[Видеозапись 2 (лекция)](https://www.dropbox.com/s/4mbaw3n0rljinu6/ML4ES-2020-04-15-002.mp4?dl=0)|
 | Лекция 20 | 21.04.2020 | Подходы ускорения и стабилизации обучения нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect20)<br /> [Видеозапись](https://www.dropbox.com/s/ds9tfbm2xrddwo0/ML4ES-2020-04-21.mp4?dl=0)|
-| Лекция 21 | 29.04.2020 | Методы регуляризации искусственных нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect21)<br />[видеозапись](https://www.dropbox.com/s/a0hr3ko0n8awd8a/ML4ES-2020-04-28.mp4?dl=0) |
+| Лекция 21 | 28.04.2020 | Методы регуляризации искусственных нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect21)<br />[видеозапись](https://www.dropbox.com/s/a0hr3ko0n8awd8a/ML4ES-2020-04-28.mp4?dl=0) |
+| Лекция 22 | 29.04.2020 | Непараметрические модели: деревья решений | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect22)<br />[видеозапись](https://www.dropbox.com/s/z6mrqqc90301crh/ML4ES-2020-04-29.mp4?dl=0) |
 
 
 ### Рекомендуемая литература
