@@ -1,9 +1,18 @@
 # ML4ES_2019-2020
 Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://sail.ocean.ru/viewuser.php?user=krinitsky) ([RG link](https://www.researchgate.net/profile/Mikhail_Krinitskiy))
 
-Машинное обучение для решения исследовательских и инженерных задач в науках о Земле. Читает [Михаил Криницкий](https://sail.ocean.ru/viewuser.php?user=krinitsky)
+Машинное обучение для решения исследовательских и инженерных задач в науках о Земле. Читает [Михаил Криницкий](https://sail.ocean.ru/viewuser.php?user=krinitsky)<br />
 
 [Метод оценки домашних заданий.](./homeworks_policy.md)<br />
+
+[Правила распространения источников](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/resources_policy.md)<br />
+
+
+
+
+
+## Зачетная сессия I-го семестра
+
 **UPDATE 2019-11-27**
 Поскольку лекция 03.12.2019 будет заключительной, состав домашних заданий зафиксирован на трех. В [плане](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/homeworks_policy.md) по домашним заданиям и их оценке есть изменения, касающиеся автозачетов и допуска к зачетам по 1му семестру.
 
@@ -11,13 +20,12 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 [Здесь](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/leaderboard_1semester.md) отметки об автозачетах, допуске к зачету и зачетах.
 
-
 **UPDATE 2019-12-16**
 
 [Здесь](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/term1_exam.md) можно ознакомиться со списком вопросов к зачету за первый семестр.
 
 
-[Правила распространения источников](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/resources_policy.md)
+
 
 -------
 
@@ -45,16 +53,16 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 12 | 10.03.2020 | Задачи классификации: мультиномиальная логистическая регрессия, автоградиент | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect12) |
 | Лекция 13 | 17.03.2020<br />18.03.2020 | Оценка качества моделей в задачах классификации | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect13);<br />[видеозапись 17.03](https://www.dropbox.com/s/cjiqczalmog88tk/ML4ES-2020-03-17-lect13.mp4?dl=0)<br />[видеозапись 18.03](https://www.dropbox.com/s/222jt5wkariddan/ML4ES-2020-03-18-lect13.mp4?dl=0) |
 | ДЗ 4 | 24.03.2020<br />due: 07.04.2020 | Мультиномиальная логистическая регрессия и оценка качества моделей классификации | [описание, данные, стартовый ноутбук](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW04)<br />[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW04/leaderboard.md) |
-| Лекция 14 | 25.03.2020 | Обобщенные линейные модели; обобщенные аддитивные модели; искусственные нейронные сети | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect14);<br />[Видеозапись](https://www.dropbox.com/s/eja3lnkwz6jat4n/Ml4ES-2020-03-25-Lect14.mp4?dl=0) |
-| Лекция 15 | 31.03.2020 | Практическое занятие. Искусственная нейронная сеть в задаче мультиномиальной классификации. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect15)<br />[Видеозапись p.1](https://www.dropbox.com/s/q7mhpft6u0d10iv/ML4ES-2020-03-31-part1.mp4?dl=0)<br />[Видеозапись p.2](https://www.dropbox.com/s/8gnpuiz690t85fo/ML4ES-2020-03-31-part2.mp4?dl=0) |
-| Лекция 16 | 07.04.2020 | Оптимизация функции потерь глубоких искусственных нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect16)<br />[Видеозапись](https://www.dropbox.com/s/4ogesae81f5p586/ML2ES-2020-04-07.mp4?dl=0) |
+| Лекция 14 | 25.03.2020 | Обобщенные линейные модели; обобщенные аддитивные модели; искусственные нейронные сети | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect14);<br />[видеозапись](https://www.dropbox.com/s/eja3lnkwz6jat4n/Ml4ES-2020-03-25-Lect14.mp4?dl=0) |
+| Лекция 15 | 31.03.2020 | Практическое занятие. Искусственная нейронная сеть в задаче мультиномиальной классификации. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect15)<br />[видеозапись p.1](https://www.dropbox.com/s/q7mhpft6u0d10iv/ML4ES-2020-03-31-part1.mp4?dl=0)<br />[видеозапись p.2](https://www.dropbox.com/s/8gnpuiz690t85fo/ML4ES-2020-03-31-part2.mp4?dl=0) |
+| Лекция 16 | 07.04.2020 | Оптимизация функции потерь глубоких искусственных нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect16)<br />[видеозапись](https://www.dropbox.com/s/4ogesae81f5p586/ML2ES-2020-04-07.mp4?dl=0) |
 | Лекция 17 | 10.04.2020 | Метод опорных векторов | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect17)<br /> [Видеозапись](https://www.dropbox.com/s/0r1kr55aofiaxtg/ML4ES-2020-04-10-Lect17.mp4?dl=0)|
 | ДЗ 5 | 14.04.2020<br />due: 17.04.2020 | Выпуклость функции потерь логистической регрессии | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW05) <br />[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW05/leaderboard.md)|
-| Лекция 18 | 14.04.2020 | Метод обратного распространения ошибки | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect18)<br /> [Видеозапись](https://www.dropbox.com/s/7evcvjws8ima4ib/ML4ES-2020-04-14.mp4?dl=0)|
+| Лекция 18 | 14.04.2020 | Метод обратного распространения ошибки | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect18)<br /> [видеозапись](https://www.dropbox.com/s/7evcvjws8ima4ib/ML4ES-2020-04-14.mp4?dl=0) |
 | ДЗ 6 | 15.04.2020<br />due: 24.04.2020 | Графы вычислений и применение метода обратного распространения ошибки на примере модели логистической регрессии | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW06)<br />[результаты](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW06/leaderboard.md) |
 | Лекция 19 | 15.04.2020 | Методы инициализации нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect19)<br /> [Видеозапись 1 (обсуждение ДЗ)](https://www.dropbox.com/s/a0k9i0hdviaktqn/ML4ES-2020-04-15-001.mp4?dl=0)<br />[Видеозапись 2 (лекция)](https://www.dropbox.com/s/4mbaw3n0rljinu6/ML4ES-2020-04-15-002.mp4?dl=0)|
 | Лекция 20 | 21.04.2020 | Подходы ускорения и стабилизации обучения нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect20)<br /> [Видеозапись](https://www.dropbox.com/s/ds9tfbm2xrddwo0/ML4ES-2020-04-21.mp4?dl=0)|
-| Лекция 21 | 29.04.2020 | Методы регуляризации нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect21) |
+| Лекция 21 | 29.04.2020 | Методы регуляризации искусственных нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect21)<br />[видеозапись](https://www.dropbox.com/s/a0hr3ko0n8awd8a/ML4ES-2020-04-28.mp4?dl=0) |
 
 
 ### Рекомендуемая литература
