@@ -19,7 +19,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 [Здесь](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/term2_exam.md) можно ознакомиться с предварительным списком вопросов к зачету за II семестр. Список будет дополняться по мере продвижения по материалу курса в рамках оставшихся лекций.
 
-Здесь опубликован (пока еще предварительный) план по домашним заданиям во II семестре.
+[Здесь](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/homeworks_plan_2semester.md) опубликован (пока еще предварительный) план по домашним заданиям во II семестре.
 
 
 
