@@ -11,7 +11,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 [Подборка](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189) книг издательства Springer, доступных для свободной загрузки, по компьютерным наукам, комьютерному зрению, машинному обучению и науке о данных.
 
-[Полный список]([https://link.springer.com/search/page/3?facet-content-type=%22Book%22&package=openaccess](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess)) книг издательства Springer, выложенных в открытый доступ для свободной загрузки.
+[Полный список](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess) книг издательства Springer, выложенных в открытый доступ для свободной загрузки.
 
 
 
