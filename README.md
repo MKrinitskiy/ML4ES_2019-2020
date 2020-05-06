@@ -7,7 +7,11 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 
 [Правила распространения источников](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/resources_policy.md)<br />
 
+**UPDATE 2020-05-06**
 
+[Подборка](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189) книг издательства Springer, доступных для свободной загрузки, по компьютерным наукам, комьютерному зрению, машинному обучению и науке о данных.
+
+[Полный список]([https://link.springer.com/search/page/3?facet-content-type=%22Book%22&package=openaccess](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess)) книг издательства Springer, выложенных в открытый доступ для свободной загрузки.
 
 
 
@@ -63,11 +67,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 20 | 21.04.2020 | Подходы ускорения и стабилизации обучения нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect20)<br /> [Видеозапись](https://www.dropbox.com/s/ds9tfbm2xrddwo0/ML4ES-2020-04-21.mp4?dl=0)|
 | Лекция 21 | 28.04.2020 | Методы регуляризации искусственных нейронных сетей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect21)<br />[видеозапись](https://www.dropbox.com/s/a0hr3ko0n8awd8a/ML4ES-2020-04-28.mp4?dl=0) |
 | Лекция 22 | 29.04.2020 | Непараметрические модели: деревья решений | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect22)<br />[видеозапись](https://www.dropbox.com/s/z6mrqqc90301crh/ML4ES-2020-04-29.mp4?dl=0) |
-| Лекция 23 | 06.05.2020 | Ансамбли моделей |  |
-
-[Подборка](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189) книг издательства Springer, доступных для свободной загрузки, по компьютерным наукам, комьютерному зрению, машинному обучению и науке о данных.
-
-[Полный список]([https://link.springer.com/search/page/3?facet-content-type=%22Book%22&package=openaccess](https://link.springer.com/search/page/3?facet-content-type="Book"&package=openaccess)) книг издательства Springer, выложенных в открытый доступ для свободной загрузки.
+| Лекция 23 | 06.05.2020 | Ансамбли моделей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect23)<br />[видеозапись](https://www.dropbox.com/s/cz97e7n3138qrjh/ML4ES-2020-05-06.mp4?dl=0) |
 
 ### Рекомендуемая литература
 
