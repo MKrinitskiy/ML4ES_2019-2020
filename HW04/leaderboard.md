@@ -4,21 +4,21 @@
 
 Достижения участников
 
-| Name            | Score                    | Weighted<br>score        | Late<br>days                | Final<br>score           |
-| --------------- | ------------------------ | ------------------------ | --------------------------- | ------------------------ |
-| П. Шпак         | scoring in progress      | scoring in progress      | 0<br />submitted 07.04.2020 | scoring in progress      |
-| В.Ю. Резвов     | scoring in progress      | scoring in progress      | 0<br />submitted 06.04.2020 | scoring in progress      |
-| А.С. Гордей     | scoring in progress      | scoring in progress      | 9<br />submitted 16.04.2020 | scoring in progress      |
-| Н.С. Чечуева    | scoring in progress      | scoring in progress      | 0<br />submitted 06.04.2020 | scoring in progress      |
-| Д. Собаева      | scoring in progress      | scoring in progress      | 0<br />submitted 06.04.2020 | scoring in progress      |
-| И.М. Кобелев    | scoring in progress      | scoring in progress      | 0<br />submitted 31.03.2020 | scoring in progress      |
-| Д. Арутюнян     | scoring in progress      | scoring in progress      | 2<br />submitted 09.04.2020 | scoring in progress      |
-| А. Подобед      | scoring in progress      | scoring in progress      | 0<br />submitted 07.04.2020 | scoring in progress      |
-| А.О. Филиппов   | scoring in progress      | scoring in progress      | 0<br />submitted 07.04.2020 | scoring in progress      |
-| А. Танурков     |                          |                          |                             |                          |
-| А. Караваев     |                          |                          |                             |                          |
-| Л.И. Салаватова |                          |                          |                             |                          |
-| Хеин Зар Чжо    | scoring in progress      | scoring in progress      | 3<br />submitted 10.04.2020 | scoring in progress      |
+| Name            | Score | Weighted<br>score | Late<br>days                | Final<br>score |
+| --------------- | ----- | ----------------- | --------------------------- | -------------- |
+| П. Шпак         | 90    | 180               | 0<br />submitted 07.04.2020 | 180            |
+| В.Ю. Резвов     | 100   | 200               | 0<br />submitted 06.04.2020 | 200            |
+| А.С. Гордей     | 88    | 176               | 9<br />submitted 16.04.2020 | 92.5           |
+| Н.С. Чечуева    | 100   | 200               | 0<br />submitted 06.04.2020 | 200            |
+| Д. Собаева      | 97    | 194               | 0<br />submitted 06.04.2020 | 194            |
+| И.М. Кобелев    | 98    | 196               | 0<br />submitted 31.03.2020 | 196            |
+| Д. Арутюнян     | 70    | 140               | 2<br />submitted 09.04.2020 | 121.4          |
+| А. Подобед      | 91    | 182               | 0<br />submitted 07.04.2020 | 182            |
+| А.О. Филиппов   | 57    | 114               | 0<br />submitted 07.04.2020 | 114            |
+| А. Танурков     |       |                   |                             |                |
+| А. Караваев     |       |                   |                             |                |
+| Л.И. Салаватова |       |                   |                             |                |
+| Хеин Зар Чжо    | 75    | 150               | 3<br />submitted 10.04.2020 | 121            |
 
 
 
