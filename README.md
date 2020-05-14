@@ -78,6 +78,7 @@ Machine learning for Earth Sciences F2019-S2020 by [Mikhail Krinitskiy](https://
 | Лекция 23 | 06.05.2020 | Ансамбли моделей | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect23)<br />[видеозапись](https://www.dropbox.com/s/cz97e7n3138qrjh/ML4ES-2020-05-06.mp4?dl=0) |
 | Лекция 24 | 12.05.2020 | Сверточные нейронные сети | [материалы лекции](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect24)<br />[видеозапись](https://www.dropbox.com/s/vpolh0b6buy7u7u/ML4ES-2020-05-12.mp4?dl=0) |
 | Занятие 25 | 13.05.2020 | Сверточные нейронные сети: операция свертки своими руками (практика) | [Материалы занятия](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/Lect25) |
+| ДЗ 7 | 14.05.2020<br />due: 21.05.2020 | Применение методов машинного обучения в реальной задаче геофизики | [описание ДЗ](https://github.com/MKrinitskiy/ML4ES_2019-2020/blob/master/HW07/HW07.ipynb) |
 
 ### Рекомендуемая литература
 
