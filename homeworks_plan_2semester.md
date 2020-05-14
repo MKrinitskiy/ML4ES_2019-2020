@@ -8,7 +8,7 @@
 | [ДЗ 4](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW04) | 100                          | -             | 2    | 200                                |
 | [ДЗ 5](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW05) | 100                          | -             | 0.2  | 20                                 |
 | [ДЗ 6](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW06) | 100                          | -             | 1    | 100                                |
-| [ДЗ 7](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW07) | 100                          | -             | 1    | 300                                |
+| [ДЗ 7](https://github.com/MKrinitskiy/ML4ES_2019-2020/tree/master/HW07) | 150                          | -             | 1    | 150                                |
 
 Максимальный балл, который возможно набрать в первом семестре - 620.
 
