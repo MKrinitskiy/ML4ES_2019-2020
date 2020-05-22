@@ -8,18 +8,18 @@
 
 | Name            | Score                    | Weighted<br>score        | Late<br>days                | Final<br>score           |
 | --------------- | ------------------------ | ------------------------ | --------------------------- | ------------------------ |
-| П. Шпак         | 119 | 119 | 0<br />submitted 21.05.2020 | 119 |
+| П.М. Шпак       | 119 | 119 | 0<br />submitted 21.05.2020 | 119 |
 | В.Ю. Резвов     | 142 | 142 | 0<br />submitted 21.05.2020 | 142 |
 | А.С. Гордей     | 125 | 125 | 0<br />submitted 20.05.2020 | 125 |
 | Н.С. Чечуева    | 136 | 136 | 0<br />submitted 20.05.2020 | 136 |
-| Д. Собаева      | in progress | in progress | 0<br />submitted 21.05.2020 |                |
+| Д.А. Собаева    | 112 | 112 | 0<br />submitted 21.05.2020 | 112 |
 | И.М. Кобелев    | 138   | 138               | 0<br />submitted 16.05.2020 | 138 |
-| Д. Арутюнян     |       |                   |                             |                |
-| А. Подобед      | in progress | in progress | 0<br />submitted 21.05.2020 |       |
+| Д.А. Арутюнян   |       |                   |                             |                |
+| А.Ю. Подобед    | in progress | in progress | 0<br />submitted 21.05.2020 | 103 |
 | А.О. Филиппов   | 114 | 114 | 0<br />submitted 18.05.2020 | 114 |
-| А. Танурков     | in progress | in progress | 0<br />submitted 21.05.2020 |                          |
-| А. Караваев     | in progress | in progress | 0<br />submitted 21.05.2020 |                          |
-| Л.И. Салаватова | in progress | in progress | 0<br />submitted 21.05.2020 |                          |
+| А.Г. Танурков   | in progress | in progress | 0<br />submitted 21.05.2020 | in progress |
+| А.С. Караваев   | 80 | 80 | 0<br />submitted 21.05.2020 | 80 |
+| Л.И. Салаватова | 146 | 146 | 0<br />submitted 21.05.2020 | 146 |
 | Хеин Зар Чжо    |       |                   |                             |                |
 
 
